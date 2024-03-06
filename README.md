@@ -1,7 +1,7 @@
 ### About me
 
 <a href="https://instagram.com/noeyhgnas" target="_blank">
-  <img align="left" alt="dasom's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Sanghyeon's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/박상현#6542" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="박상현#6542" height="30" width="40" /></a>
 </a>
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shawn2018@naver.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dasom222g&label=Profile%20views&color=0e75b6&style=flat" alt="dasom222g" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noeyhgnas&label=Profile%20views&color=0e75b6&style=flat" alt="noeyhgnas" /> </p>
 
 <h3 align="left">languages and tools</h3>
 <br />
