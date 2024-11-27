@@ -11,7 +11,7 @@
 <h1 align="left">안녕하세요, Project Manager를 꿈꾸는 박상현입니다</h1>
 <h3 align="left">안되면 되게하라, 최선을 다하는 사람이 되겠습니다</h3>
 
-- 👩‍💻 All of my projects are available at (https://efficient-star-206.notion.site/ProjectManger-fd6061bf6b884c408d3652729e3655ab?pvs=4))
+- 👩‍💻 All of my projects are available at ([https://efficient-star-206.notion.site/ProjectManger-fd6061bf6b884c408d3652729e3655ab?pvs=4](https://efficient-star-206.notion.site/14b8f0e959998005aca1d6958dec49d0?pvs=4))
 
 - 💬 Ask me about **react**
 
