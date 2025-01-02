@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **shawn2018@naver.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noeyhgnas&label=Profile%20views&color=0e75b6&style=flat" alt="noeyhgnas" /> </p>
-
 <h3 align="left">languages and tools</h3>
 <br />
 <p align="left">
