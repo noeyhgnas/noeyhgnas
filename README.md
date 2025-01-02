@@ -61,13 +61,9 @@
 <br />
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
-<div>
-  <img src="https://img.shields.io/github/followers/noeyhgnas?style=social" alt="github followers" height="24" />
-</div>
 
 <h3 align="left">📈 my github stats</h3>
 <br />
 
 <p  align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noeyhgnas&show_icons=true&theme=gotham&locale=en" alt="noeyhgnas" /></p>
 
-<p  align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=noeyhgnas&theme=gotham" alt="noeyhgnas" /></p>
