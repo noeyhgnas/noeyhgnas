@@ -59,9 +59,4 @@
 <br />
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
-
-<h3 align="left">📈 my github stats</h3>
 <br />
-
-<p  align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noeyhgnas&show_icons=true&theme=gotham&locale=en" alt="noeyhgnas" /></p>
-
