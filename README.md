@@ -5,7 +5,7 @@
 <li> IT 연합 프로젝트 동아리 <a href="https://github.com/HIUMC"> UMC </a> 5기 <strong>FE</strong><sub>(2023.09 ~ 2024.02)</sub></li>
 <li> IT 연합 프로젝트 동아리 <a href = "https://github.com/Codeitboost-Hongik"> Codeitboost </a> 1기 <strong>PM</strong><sub> (2024.04 ~ 2025.02)</sub> </li>
 <li> IT 연합 프로젝트 동아리 <a href = "https://github.com/IT-Cotato"> 코테이토 </a> 11기 <strong>PM</strong><sub> (2025.04 ~ )</sub>
-<li> IT 직무캠프 <a href = "https://velog.io/@noeyhgnas/series/IT직무캠프"> 서초구청 IT직무캠프 </a> <sub> (2025.07 ~ )</sub></li>
+<li> IT 직무캠프 <a href = "https://velog.io/@noeyhgnas/series/IT직무캠프"> 서초구청 IT직무캠프 </a> <sub> (2025.06.30 ~ 2025.07.28 )</sub></li>
 
 <h2>🔗Projects</h2>
 <li> <a href = "https://github.com/TravelCompass-UMC"> Travel Compass</a> : 여행 계획 설계 서비스  <strong>FE</strong><sub> (2023.12 ~ 2024.02)</sub> </li>
