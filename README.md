@@ -7,11 +7,13 @@
 <li> IT 연합 프로젝트 동아리 <a href = "https://github.com/IT-Cotato"> 코테이토 </a> 11기 <strong>PM</strong><sub> (2025.04 ~ )</sub>
 <li> IT 연합 프로젝트 동아리 <a href = "https://github.com/IT-Cotato"> 코테이토 </a> 12기 <strong>PM 리더</strong><sub> (2025.08 ~ )</sub>
 <li> IT 직무캠프 <a href = "https://velog.io/@noeyhgnas/series/IT직무캠프"> 서초구청 IT직무캠프 </a> <sub> (2025.06.30 ~ 2025.07.28 )</sub></li>
+<li> 서비스 기획 직무캠프 <a href = "https://velog.io/@noeyhgnas/series/서비스-기획"> 서초구청 IT직무캠프 </a> <sub> (2025.09.07 ~ 2025.10.12 )</sub></li>
 
 <h2>🔗Projects</h2>
-<li> <a href = "https://github.com/TravelCompass-UMC"> Travel Compass</a> : 여행 계획 설계 서비스  <strong>FE</strong><sub> (2023.12 ~ 2024.02)</sub> </li>
 <li> <a href = "https://github.com/Codeit-MovieGlass"> Movie Glass </a> : 사용자 맞춤 영화 추천 서비스  <strong>PM</strong><sub> (2024.12 ~ 2025.02)</sub> </li>
-<li> <a href = "https://github.com/IT-Cotato/11th-TroubleLog-FE"> Troublog </a> : 트러블 슈팅 관리 서비스  <strong>PM</strong> <sub>(2025.03 ~ )</sub> </li>
+<li> <a href = "https://www.troublog.com/"> Troublog </a> : 트러블 슈팅 관리 서비스  <strong>PM</strong> <sub>(2025.03 ~ )</sub> </li>
+<li> <a href = "https://www.cotato.kr/"> Cotato </a> : 코테이토 공식 홈페이지 <strong>PM</strong> <sub>(2025.09 ~ )</sub> </li>
+<li> <a href = "https://recruit.cotato.kr/"> COTATO | RECRUIT </a> : 코테이토 지원 서비스 <strong>PM</strong> <sub>(2025.09 ~ )</sub> </li>
 
 <h2>⚒️Stacks</h2>
 <p>
